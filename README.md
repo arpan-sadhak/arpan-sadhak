@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=⚠+システム破損+⚠;⚠+System+Corrupted+⚠" />
 </h1>
 
-<h1 align="center" style="color:#00FF00;">PUSKAR NATH</h1>
+<h1 align="center" style="color:#00FF00;">Arpan Sadhak</h1>
 
 <p align="center" style="color:#00FF00; font-size:18px;">
-  🕸️ 2nd Year Student at <b>|| BENGAL INSTITUTE OF TECHNOLOGY ||</b><br>
-  B.TECH || Computer Science<br>
+  🕸️ 2nd Year Student at <b>|| SWAMI VIVEKANANDA UNIVERSITY ||</b><br>
+  B.TECH || Computer Science And Engeneering<br>
   #Developing the Development
 </p>
 <div align="center">
