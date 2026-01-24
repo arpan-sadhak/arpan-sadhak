@@ -71,12 +71,6 @@
   </tr>
 </table>
 <br></br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=🏆Certifications" />
-<div align="center">
-  <a href="https://badges.parchment.com/public/assertions/D8xGrEtBTnmn42zzr0FO3g?identity__email=puskarnath110%40gmail.com" target="_blank">
-    <img src="postman.png" width="150" alt="Postman Badge"/>
-  </a>
-  <br/><br/>
 </div>
 
 <br>
