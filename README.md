@@ -55,7 +55,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github" />
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/OpenAPI_Logo_Pantone.svg" width="48"/>
     </td>
   </tr>
 </table>
@@ -72,10 +71,9 @@
       <img src="https://skillicons.dev/icons?i=idea,pycharm,eclipse" /><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" title="MySQL Workbench"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB Compass"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/CorelDRAW_2020_icon.svg" width="42"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Adobe_PageMaker_7.0_icon.png" width="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/coreldraw.svg" width="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" width="42"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="42"/>
-      <img src="https://raw.githubusercontent.com/gluonhq/scenebuilder/master/resources/scenebuilder-logo.png" width="42"/>
     </td>
   </tr>
 </table>
@@ -91,11 +89,19 @@
   </tr>
   <tr>
     <td align="center">
-      OpenCV • NumPy • Pandas • Matplotlib<br/>
-      Tkinter • Django • Flask
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" title="OpenCV"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42" title="Matplotlib"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Tkinter"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="42" title="Django"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="42" title="Flask"/>
     </td>
     <td align="center">
-      JavaFX • JDBC • Servlet
+      <img src="https://img.shields.io/badge/JavaFX-UI-orange?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Servlet-Web-purple?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scene%20Builder-JavaFX-green?style=for-the-badge&logo=java&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -106,19 +112,19 @@
 
 <h3 align="center" style="color:#00FF00;">📈 GitHub Stats</h3>
 <p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Puskar2Sora&show_icons=true&theme=react&rank_icon=github&border_radius=10"/><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puskar2Sora&theme=tokyonight"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puskar2Sora&layout=compact&theme=tokyonight"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=arpan-sadhak&show_icons=true&theme=react&rank_icon=github&border_radius=10"/><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan-sadhak&theme=tokyonight"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan-sadhak&layout=compact&theme=tokyonight"/>
 </p>
 
 <h2 align="center" style="color:#00FF00;">📊 Activity Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puskar2Sora&theme=xcode&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpan-sadhak&theme=xcode&hide_border=true" width="90%"/>
 </p>
 
 <h2 align="center" style="color:#00FF00;">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Puskar2Sora&theme=matrix&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arpan-sadhak&theme=matrix&no-frame=true&row=1&column=6"/>
 </p>
 
 <h2 align="center" style="color:#00FF00;">🌐 Let's Connect</h2>
@@ -131,7 +137,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:puskarofficial404@gmail.com">
+  <a href="mailto:new1262006@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40"/>
   </a>
 </p>
