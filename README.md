@@ -77,8 +77,6 @@
     <img src="postman.png" width="150" alt="Postman Badge"/>
   </a>
   <br/><br/>
-  <b>Postman Student Expert</b><br/>
-  <sub>API Fundamentals • Verified Credential</sub>
 </div>
 
 <br>
