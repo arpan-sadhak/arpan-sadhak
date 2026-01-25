@@ -122,19 +122,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpan-sadhak&theme=xcode&hide_border=true" width="90%"/>
 </p>
 
-<h2 align="center" style="color:#00FF00;">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpan-sadhak&theme=matrix&no-frame=true&row=1&column=6"/>
-</p>
-
 <h2 align="center" style="color:#00FF00;">🌐 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/puskar-nath-a44958314/" target="_blank">
+  <a href="https://www.linkedin.com/in/arpan-sadhak-63bb54308/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/Last_Safar" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="40"/>
+  <a href="https://x.com/ArpanSadhak249" target="_blank">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="30" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:new1262006@gmail.com">
