@@ -51,6 +51,7 @@
       <br/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="42"/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/railway.svg" width="42"/>
+      <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" width="42" title="Vercel" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github" />
