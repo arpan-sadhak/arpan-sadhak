@@ -24,10 +24,10 @@
       <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,php" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=django,fastapi" />
+      <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
       <br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java Backend"/>
     </td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,maven" />
