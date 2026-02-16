@@ -24,7 +24,7 @@
       <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,php" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
